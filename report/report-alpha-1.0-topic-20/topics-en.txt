@@ -1,0 +1,380 @@
+------------
+Topic 0
+------------
+100.00		13.00	aye#en
+100.00		8.00	calculation#en
+100.00		8.00	digit#en
+100.00		7.00	speech#en
+100.00		6.00	upfront#en
+100.00		6.00	anew#en
+100.00		6.00	phrase#en
+100.00		6.00	eyesight#en
+100.00		5.00	handicap#en
+100.00		5.00	renowned#en
+100.00		5.00	onto#en
+100.00		5.00	annual#en
+100.00		5.00	frivolous#en
+100.00		5.00	buildup#en
+100.00		5.00	operation#en
+100.00		4.00	comprehension#en
+------------
+Topic 1
+------------
+100.00		461.00	turn#en
+100.00		280.00	team#en
+100.00		261.00	local#en
+100.00		247.00	opportunity#en
+100.00		199.00	movie#en
+100.00		181.00	object#en
+100.00		181.00	camera#en
+100.00		180.00	skin#en
+100.00		177.00	david#en
+100.00		168.00	quality#en
+100.00		163.00	serious#en
+100.00		163.00	moral#en
+100.00		162.00	although#en
+100.00		159.00	trust#en
+100.00		154.00	famous#en
+100.00		146.00	crisis#en
+------------
+Topic 2
+------------
+100.00		19.00	speech#en
+100.00		17.00	prevalence#en
+100.00		12.00	accept#en
+100.00		9.00	criticism#en
+100.00		9.00	arousal#en
+100.00		8.00	mentally#en
+100.00		8.00	exit#en
+100.00		8.00	excitement#en
+100.00		8.00	discourse#en
+100.00		7.00	household#en
+100.00		7.00	mechanism#en
+100.00		7.00	active#en
+100.00		7.00	dim#en
+100.00		6.00	liberty#en
+100.00		6.00	lone#en
+100.00		6.00	noise#en
+------------
+Topic 3
+------------
+100.00		47.00	sculpture#en
+100.00		33.00	seek#en
+100.00		20.00	artist#en
+100.00		18.00	color#en
+100.00		17.00	emotion#en
+100.00		15.00	wireless#en
+100.00		15.00	determine#en
+100.00		14.00	distinguish#en
+100.00		12.00	migraine#en
+100.00		12.00	tension#en
+100.00		12.00	daily#en
+100.00		11.00	illumination#en
+100.00		11.00	sensor#en
+100.00		11.00	synapse#en
+100.00		11.00	frequency#en
+100.00		11.00	signal#en
+------------
+Topic 4
+------------
+100.00		578.00	music#en
+100.00		212.00	robot#en
+100.00		117.00	bread#en
+100.00		93.00	hearing#en
+100.00		85.00	laptop#en
+100.00		73.00	performance#en
+100.00		73.00	pollen#en
+100.00		65.00	play#en
+100.00		57.00	instrument#en
+100.00		54.00	musical#en
+100.00		53.00	piano#en
+0.01		52.00	instruments#en
+100.00		45.00	singing#en
+100.00		38.00	rhythm#en
+100.00		38.00	orchestra#en
+100.00		38.00	insect#en
+------------
+Topic 5
+------------
+100.00		893.00	call#en
+100.00		308.00	powerful#en
+100.00		192.00	bacteria#en
+100.00		159.00	meaning#en
+100.00		117.00	psychology#en
+100.00		116.00	production#en
+0.01		115.00	finger#en
+100.00		85.00	molecule#en
+100.00		71.00	shame#en
+100.00		71.00	round#en
+100.00		65.00	organ#en
+100.00		62.00	curve#en
+100.00		58.00	spider#en
+100.00		55.00	surgeon#en
+100.00		54.00	dinosaur#en
+100.00		53.00	liver#en
+------------
+Topic 6
+------------
+100.00		53.00	smallpox#en
+100.00		47.00	architect#en
+100.00		37.00	penguin#en
+100.00		37.00	comics#en
+100.00		33.00	artistic#en
+100.00		25.00	precise#en
+100.00		25.00	photo#en
+100.00		18.00	eradication#en
+100.00		18.00	participation#en
+100.00		15.00	continuously#en
+100.00		15.00	target#en
+0.01		14.00	bioenergy#en
+100.00		13.00	society#en
+100.00		12.00	diagnostics#en
+100.00		10.00	landing#en
+100.00		9.00	definitely#en
+------------
+Topic 7
+------------
+100.00		697.00	create#en
+100.00		686.00	energy#en
+100.00		322.00	dna#en
+100.00		286.00	phone#en
+100.00		250.00	theory#en
+100.00		225.00	device#en
+100.00		217.00	shape#en
+100.00		205.00	biology#en
+100.00		194.00	pattern#en
+100.00		191.00	measure#en
+100.00		190.00	worth#en
+0.01		189.00	genes#en
+100.00		186.00	several#en
+100.00		174.00	physics#en
+100.00		174.00	code#en
+100.00		153.00	screen#en
+------------
+Topic 8
+------------
+100.00		6.00	possess#en
+100.00		6.00	crowd#en
+100.00		5.00	amazingly#en
+100.00		4.00	opinion#en
+100.00		4.00	cause#en
+100.00		4.00	implement#en
+100.00		4.00	portion#en
+100.00		3.00	construct#en
+100.00		3.00	appear#en
+100.00		3.00	rely#en
+100.00		3.00	inmate#en
+100.00		3.00	scientifically#en
+100.00		3.00	mainly#en
+100.00		3.00	communication#en
+100.00		2.00	project#en
+100.00		2.00	extra#en
+------------
+Topic 9
+------------
+100.00		982.00	water#en
+100.00		633.00	body#en
+100.00		547.00	woman#en
+0.01		404.00	ocean#en
+100.00		362.00	game#en
+100.00		362.00	whatever#en
+100.00		359.00	area#en
+100.00		330.00	century#en
+0.01		310.00	animals#en
+0.01		286.00	fish#en
+100.00		219.00	color#en
+100.00		201.00	chinese#en
+100.00		189.00	produce#en
+100.00		184.00	carbon#en
+100.00		154.00	plastic#en
+100.00		152.00	excited#en
+------------
+Topic 10
+------------
+100.00		832.00	school#en
+100.00		777.00	food#en
+0.01		554.00	war#en
+100.00		532.00	keep#en
+100.00		523.00	inside#en
+100.00		515.00	family#en
+100.00		479.00	answer#en
+0.01		463.00	kids#en
+100.00		320.00	entire#en
+100.00		310.00	audience#en
+100.00		296.00	difficult#en
+100.00		258.00	obviously#en
+100.00		249.00	anyway#en
+0.01		243.00	law#en
+100.00		236.00	result#en
+100.00		234.00	save#en
+------------
+Topic 11
+------------
+100.00		18.00	creation#en
+100.00		10.00	consciousness#en
+100.00		10.00	talent#en
+100.00		9.00	hence#en
+100.00		8.00	experimentation#en
+100.00		5.00	resource#en
+100.00		4.00	economy#en
+100.00		4.00	cultural#en
+100.00		4.00	reduce#en
+100.00		4.00	environment#en
+100.00		4.00	contribute#en
+100.00		4.00	government#en
+100.00		4.00	oneself#en
+100.00		3.00	manage#en
+100.00		3.00	computer#en
+100.00		3.00	infant#en
+------------
+Topic 12
+------------
+100.00		1241.00	change#en
+100.00		752.00	help#en
+100.00		751.00	space#en
+100.00		718.00	probably#en
+100.00		706.00	country#en
+0.01		656.00	dollars#en
+100.00		634.00	business#en
+100.00		579.00	reason#en
+100.00		574.00	social#en
+100.00		562.00	project#en
+100.00		536.00	billion#en
+100.00		514.00	top#en
+100.00		510.00	global#en
+100.00		466.00	open#en
+100.00		453.00	must#en
+100.00		400.00	huge#en
+------------
+Topic 13
+------------
+100.00		1020.00	system#en
+100.00		983.00	together#en
+100.00		712.00	africa#en
+100.00		686.00	future#en
+0.01		562.00	power#en
+100.00		537.00	building#en
+0.01		502.00	countries#en
+100.00		497.00	bring#en
+0.01		488.00	states#en
+100.00		483.00	age#en
+100.00		456.00	line#en
+100.00		448.00	india#en
+100.00		445.00	under#en
+100.00		403.00	oil#en
+0.01		392.00	united#en
+100.00		391.00	china#en
+------------
+Topic 14
+------------
+100.00		563.00	saying#en
+100.00		561.00	learn#en
+100.00		528.00	care#en
+100.00		517.00	set#en
+100.00		484.00	computer#en
+100.00		480.00	experience#en
+100.00		475.00	sometimes#en
+100.00		466.00	education#en
+100.00		369.00	disease#en
+100.00		273.00	program#en
+100.00		255.00	please#en
+100.00		248.00	seem#en
+100.00		235.00	voice#en
+0.01		226.00	patients#en
+100.00		224.00	attention#en
+100.00		223.00	song#en
+------------
+Topic 15
+------------
+100.00		585.00	health#en
+100.00		449.00	cancer#en
+100.00		357.00	air#en
+100.00		344.00	machine#en
+100.00		294.00	cell#en
+100.00		278.00	stage#en
+100.00		252.00	patient#en
+100.00		215.00	medicine#en
+100.00		177.00	doctor#en
+0.01		166.00	blood#en
+100.00		128.00	drug#en
+100.00		119.00	treatment#en
+100.00		111.00	surgery#en
+100.00		106.00	bone#en
+100.00		92.00	engine#en
+100.00		84.00	protein#en
+------------
+Topic 16
+------------
+100.00		872.00	science#en
+100.00		712.00	earth#en
+0.01		604.00	light#en
+100.00		498.00	universe#en
+100.00		371.00	environment#en
+0.01		304.00	ice#en
+100.00		266.00	surface#en
+100.00		247.00	evolution#en
+100.00		207.00	network#en
+100.00		183.00	similar#en
+100.00		180.00	scientific#en
+0.01		180.00	solar#en
+100.00		172.00	self#en
+0.01		167.00	mars#en
+0.01		163.00	stars#en
+0.01		127.00	planets#en
+------------
+Topic 17
+------------
+100.00		1244.00	technology#en
+100.00		1012.00	maybe#en
+100.00		870.00	feel#en
+100.00		843.00	live#en
+100.00		761.00	money#en
+100.00		685.00	information#en
+100.00		636.00	without#en
+100.00		608.00	room#en
+100.00		569.00	book#en
+100.00		552.00	later#en
+100.00		474.00	piece#en
+100.00		424.00	news#en
+100.00		411.00	language#en
+0.01		399.00	night#en
+0.01		387.00	turns#en
+100.00		387.00	company#en
+------------
+Topic 18
+------------
+100.00		955.00	data#en
+100.00		613.00	move#en
+0.01		525.00	cells#en
+100.00		267.00	fly#en
+100.00		226.00	structure#en
+100.00		178.00	virus#en
+0.01		173.00	robots#en
+100.00		113.00	specific#en
+100.00		103.00	tissue#en
+100.00		101.00	virtual#en
+0.01		97.00	dinosaurs#en
+0.01		95.00	galaxies#en
+0.01		93.00	structures#en
+100.00		92.00	charles#en
+100.00		90.00	layer#en
+100.00		89.00	sequence#en
+------------
+Topic 19
+------------
+0.01		3081.00	she#en
+100.00		1795.00	her#en
+100.00		1467.00	percent#en
+100.00		1195.00	human#en
+100.00		1180.00	mean#en
+100.00		1170.00	story#en
+100.00		1112.00	sort#en
+100.00		1089.00	brain#en
+100.00		1074.00	problem#en
+0.01		1061.00	him#en
+100.00		1059.00	each#en
+0.01		1054.00	might#en
+0.01		1054.00	bit#en
+100.00		1029.00	better#en
+100.00		984.00	place#en
+0.01		975.00	love#en

@@ -1,0 +1,31 @@
+----------
+Model:
+ - Tree-based dictionary priors.
+----------
+Size of vocabulary:
+ - 427755
+----------
+Number of documents in each language:
+ - 970
+----------
+Number of tokens in each language:
+ - #en: 447361
+ - #cmn: 394515
+ - #tr: 192888
+ - total: 1034764
+----------
+Number of topics:
+ - 10
+----------
+Number of iterations:
+ - 100
+----------
+Stopword: 
+ - Using stopword lists according to the corpus.
+----------
+alpha:
+ - 1.00
+----------
+beta: 
+ - 0.01
+ - 100.00

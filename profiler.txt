@@ -1,0 +1,51 @@
+Timer unit: 1e-06 s
+
+Total time: 678.465 s
+File: /Users/shudonghao/project/mlitm-sparse/Sampler.py
+Function: run_sampler at line 34
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+    34                                           	@profile
+    35                                           	def run_sampler(self):
+    36                                           
+    37         1         1217   1217.0      0.0  		handle = open(self._output_dir+'/iterations.txt', 'w')
+    38                                           
+    39                                           		#sys.stdout = open("running.txt", "w")
+    40                                           
+    41        11           30      2.7      0.0  		for ii in range(self._num_iterations):
+    42                                           
+    43        10          232     23.2      0.0  			print("Iteration %i" % ii)
+    44                                           
+    45        10           53      5.3      0.0  			start = time.time()
+    46                                           
+    47                                           			#token = 0
+    48                                           			#alltime = []
+    49                                           
+    50                                           
+    51      3010         3668      1.2      0.0  			for doc_id in range(len(self._doc_tokens)):
+    52                                           
+    53   1431130      2137607      1.5      0.3  				for token_id in range(len(self._doc_tokens[doc_id])):
+    54                                           
+    55   1428130      2859553      2.0      0.4  				word_id 	=	self._doc_word_id[doc_id][token_id]
+    56   1428130      2472396      1.7      0.4  				token_path_id	=	self._doc_tokens[doc_id][token_id]
+    57   1428130      2722216      1.9      0.4  				token_path	=	self._vocabulary._path_edge_set[token_path_id]
+    58   1428130      2675011      1.9      0.4  				all_paths_id	=	self._vocabulary._word_path_id[word_id]
+    59                                           
+    60   1428130    139780669     97.9     20.6  				self._state.change_state(doc_id, token_id, token_path, UNASSIGNED, token_path_id)
+    61                                           
+    62                                           				[bucket_s,bucket_r,bucket_q] = \
+    63   1428130    302351814    211.7     44.6  				self._state.get_all_buckets(doc_id, word_id, self._num_topics, all_paths_id, self._vocabulary)
+    64                                           				[new_topic_id, new_path_id, new_path] = \
+    65   1428130     71567479     50.1     10.5  				self.sample_new_topic_sparse(bucket_s, bucket_r, bucket_q, doc_id, all_paths_id)
+    66   1428130      2684469      1.9      0.4  				self._doc_tokens[doc_id][token_id] = new_path_id
+    67                                           
+    68   1428130    138706681     97.1     20.4  				self._state.change_state(doc_id, token_id, new_path, new_topic_id, new_path_id)
+    69                                           
+    70        10          142     14.2      0.0  			total = time.time() - start
+    71        10     10499796 1049979.6      1.5  			lhood = self.lhood()
+    72        10         1118    111.8      0.0  			print("Iteration %i, likelihood %f, %0.5f seconds" % (ii, lhood, total))
+    73        10          134     13.4      0.0  			handle.write("Iteration %i, likelihood %f, %0.5f seconds\n" % (ii, lhood, total))
+    74                                           
+    75         1          684    684.0      0.0  		handle.close()
+

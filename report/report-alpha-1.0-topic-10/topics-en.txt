@@ -1,0 +1,190 @@
+------------
+Topic 0
+------------
+100.00		254.00	easy#en
+100.00		133.00	subject#en
+100.00		89.00	silk#en
+100.00		73.00	underneath#en
+100.00		63.00	woman#en
+100.00		60.00	intellectual#en
+100.00		59.00	wire#en
+100.00		58.00	photo#en
+100.00		46.00	darkness#en
+100.00		46.00	former#en
+100.00		45.00	decision#en
+100.00		43.00	consume#en
+100.00		42.00	contemporary#en
+100.00		40.00	harm#en
+100.00		40.00	several#en
+100.00		38.00	distant#en
+------------
+Topic 1
+------------
+100.00		484.00	woman#en
+100.00		394.00	society#en
+100.00		162.00	although#en
+100.00		124.00	terrible#en
+100.00		96.00	decision#en
+100.00		94.00	nation#en
+100.00		86.00	easy#en
+100.00		83.00	belief#en
+100.00		78.00	emotion#en
+100.00		67.00	fail#en
+100.00		61.00	shop#en
+100.00		61.00	speech#en
+100.00		61.00	member#en
+100.00		60.00	opinion#en
+100.00		60.00	lifetime#en
+100.00		59.00	daily#en
+------------
+Topic 2
+------------
+100.00		983.00	water#en
+100.00		215.00	medicine#en
+100.00		211.00	individual#en
+100.00		208.00	network#en
+100.00		198.00	peace#en
+100.00		196.00	pattern#en
+100.00		186.00	produce#en
+100.00		182.00	online#en
+100.00		177.00	virus#en
+100.00		175.00	innovation#en
+100.00		175.00	code#en
+100.00		159.00	student#en
+0.01		146.00	dog#en
+100.00		133.00	kill#en
+100.00		131.00	obvious#en
+100.00		121.00	treatment#en
+------------
+Topic 3
+------------
+100.00		756.00	money#en
+100.00		599.00	bad#en
+100.00		473.00	age#en
+100.00		433.00	heart#en
+100.00		388.00	share#en
+100.00		249.00	obviously#en
+100.00		211.00	kid#en
+100.00		191.00	journey#en
+100.00		190.00	worth#en
+100.00		190.00	product#en
+100.00		188.00	general#en
+100.00		186.00	university#en
+100.00		177.00	david#en
+100.00		176.00	village#en
+100.00		176.00	hospital#en
+100.00		169.00	quality#en
+------------
+Topic 4
+------------
+100.00		35.00	cooperation#en
+100.00		17.00	ingredient#en
+100.00		15.00	nonetheless#en
+100.00		15.00	substantial#en
+100.00		14.00	interior#en
+0.01		13.00	daf#en
+100.00		13.00	entry#en
+100.00		10.00	pristine#en
+100.00		9.00	exceptional#en
+100.00		9.00	sufficient#en
+100.00		7.00	disseminate#en
+100.00		6.00	transparent#en
+100.00		6.00	likewise#en
+100.00		6.00	react#en
+100.00		6.00	talent#en
+100.00		6.00	illuminate#en
+------------
+Topic 5
+------------
+100.00		193.00	robot#en
+100.00		39.00	somewhat#en
+100.00		36.00	lecture#en
+100.00		34.00	precise#en
+100.00		29.00	relation#en
+100.00		28.00	attitude#en
+100.00		26.00	photo#en
+100.00		26.00	realistic#en
+100.00		20.00	implement#en
+0.01		19.00	lakota#en
+100.00		19.00	summarize#en
+0.01		17.00	enceladus#en
+0.01		17.00	crater#en
+100.00		16.00	contradiction#en
+100.00		15.00	unite#en
+100.00		14.00	alike#en
+------------
+Topic 6
+------------
+100.00		740.00	enough#en
+100.00		623.00	picture#en
+100.00		462.00	experience#en
+100.00		459.00	turn#en
+100.00		296.00	happiness#en
+0.01		273.00	baby#en
+100.00		246.00	evolution#en
+100.00		226.00	voice#en
+100.00		215.00	effect#en
+100.00		214.00	truth#en
+100.00		207.00	generation#en
+100.00		203.00	theory#en
+100.00		197.00	vision#en
+100.00		189.00	beauty#en
+100.00		188.00	evidence#en
+100.00		187.00	physical#en
+------------
+Topic 7
+------------
+100.00		740.00	number#en
+100.00		710.00	africa#en
+100.00		475.00	computer#en
+100.00		405.00	model#en
+100.00		393.00	china#en
+100.00		343.00	machine#en
+100.00		313.00	population#en
+100.00		286.00	phone#en
+100.00		227.00	opportunity#en
+100.00		225.00	structure#en
+100.00		225.00	material#en
+100.00		214.00	situation#en
+100.00		209.00	economy#en
+100.00		204.00	development#en
+100.00		189.00	west#en
+100.00		172.00	movie#en
+------------
+Topic 8
+------------
+100.00		1240.00	technology#en
+100.00		1083.00	brain#en
+100.00		1021.00	system#en
+100.00		843.00	live#en
+0.01		760.00	power#en
+0.01		755.00	light#en
+100.00		715.00	earth#en
+100.00		680.00	energy#en
+100.00		677.00	may#en
+100.00		636.00	body#en
+100.00		583.00	health#en
+100.00		563.00	book#en
+100.00		554.00	project#en
+100.00		543.00	nothing#en
+100.00		539.00	far#en
+100.00		534.00	building#en
+------------
+Topic 9
+------------
+0.01		3081.00	she#en
+100.00		1795.00	her#en
+100.00		1453.00	percent#en
+100.00		1248.00	change#en
+100.00		1186.00	human#en
+100.00		1180.00	mean#en
+100.00		1144.00	story#en
+100.00		1114.00	sort#en
+100.00		1072.00	problem#en
+0.01		1055.00	him#en
+0.01		1053.00	bit#en
+100.00		1052.00	each#en
+0.01		1034.00	might#en
+100.00		1029.00	better#en
+100.00		1009.00	maybe#en
+100.00		985.00	place#en

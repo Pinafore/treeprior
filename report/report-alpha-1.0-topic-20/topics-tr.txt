@@ -1,0 +1,380 @@
+------------
+Topic 0
+------------
+100.00		1352.00	evet#tr
+100.00		1190.00	ancak#tr
+100.00		1089.00	beni#tr
+100.00		1075.00	bence#tr
+100.00		1071.00	birkaç#tr
+100.00		964.00	artık#tr
+100.00		915.00	orada#tr
+100.00		903.00	tarafından#tr
+100.00		893.00	yer#tr
+100.00		859.00	birçok#tr
+100.00		851.00	güzel#tr
+100.00		847.00	yüzde#tr
+100.00		838.00	boyunca#tr
+100.00		834.00	şeyi#tr
+100.00		824.00	işte#tr
+100.00		824.00	sizin#tr
+------------
+Topic 1
+------------
+100.00		4.00	bakanlık#tr
+100.00		3.00	tanrıça#tr
+100.00		3.00	yenilebilir#tr
+100.00		2.00	haklılık#tr
+100.00		2.00	uyuşuk#tr
+100.00		2.00	hortum#tr
+100.00		2.00	kemer#tr
+100.00		2.00	orantı#tr
+100.00		2.00	parabol#tr
+100.00		2.00	küratör#tr
+100.00		2.00	i̇stanbul#tr
+100.00		2.00	sınırlama#tr
+100.00		2.00	ahır#tr
+100.00		2.00	yusuf#tr
+100.00		2.00	pankreas#tr
+100.00		2.00	projektör#tr
+------------
+Topic 2
+------------
+100.00		7.00	hücre#tr
+100.00		6.00	idol#tr
+100.00		3.00	malzeme#tr
+100.00		3.00	peynir#tr
+100.00		3.00	kuram#tr
+100.00		2.00	beyincik#tr
+100.00		2.00	iktidar#tr
+100.00		2.00	uzanmak#tr
+100.00		2.00	ameliyathane#tr
+100.00		1.00	misir#tr
+100.00		1.00	seferberlik#tr
+100.00		1.00	şampiyon#tr
+100.00		1.00	kampüs#tr
+100.00		1.00	dadı#tr
+100.00		1.00	iyileşmek#tr
+100.00		1.00	mahrem#tr
+------------
+Topic 3
+------------
+100.00		14.00	ped#tr
+100.00		11.00	malta#tr
+100.00		10.00	şarkıcı#tr
+100.00		9.00	sanatçı#tr
+100.00		8.00	paylaşmak#tr
+100.00		6.00	feci#tr
+100.00		4.00	orkinos#tr
+100.00		3.00	kök#tr
+100.00		2.00	çalgı#tr
+100.00		2.00	heykelcilik#tr
+100.00		2.00	fırtınalı#tr
+100.00		2.00	botsvana#tr
+100.00		2.00	motosiklet#tr
+100.00		2.00	beton#tr
+100.00		2.00	kızak#tr
+100.00		2.00	habitat#tr
+------------
+Topic 4
+------------
+100.00		214.00	müzik#tr
+100.00		147.00	robot#tr
+100.00		87.00	ekmek#tr
+100.00		52.00	dizüstü#tr
+100.00		46.00	böcek#tr
+100.00		43.00	polen#tr
+100.00		29.00	müzisyen#tr
+100.00		26.00	maya#tr
+100.00		23.00	mantar#tr
+100.00		21.00	lezzet#tr
+100.00		19.00	kalkülüs#tr
+100.00		16.00	bira#tr
+100.00		15.00	ahtapot#tr
+100.00		12.00	hamur#tr
+100.00		11.00	melodi#tr
+100.00		11.00	gitar#tr
+------------
+Topic 5
+------------
+100.00		62.00	örümcek#tr
+100.00		36.00	organ#tr
+100.00		27.00	spagetti#tr
+100.00		25.00	karaciğer#tr
+100.00		24.00	lif#tr
+100.00		22.00	yazıcı#tr
+100.00		20.00	evsiz#tr
+100.00		18.00	hardal#tr
+100.00		16.00	çağrı#tr
+100.00		14.00	istiridye#tr
+100.00		11.00	dodo#tr
+100.00		10.00	karbonat#tr
+100.00		9.00	güçlü#tr
+100.00		7.00	tünel#tr
+100.00		6.00	uğraş#tr
+100.00		6.00	kartpostal#tr
+------------
+Topic 6
+------------
+100.00		42.00	penguen#tr
+100.00		19.00	sanatsal#tr
+100.00		18.00	plan#tr
+100.00		10.00	gözlük#tr
+100.00		2.00	kaygısız#tr
+100.00		1.00	ölçeklendirmek#tr
+100.00		1.00	tamirat#tr
+100.00		1.00	çokgen#tr
+100.00		1.00	kafir#tr
+100.00		1.00	jamaikalı#tr
+100.00		1.00	amortisör#tr
+100.00		1.00	iktidarsızlık#tr
+100.00		1.00	yamukluk#tr
+100.00		1.00	eczane#tr
+100.00		1.00	tutkun#tr
+100.00		1.00	kripton#tr
+------------
+Topic 7
+------------
+100.00		51.00	soyut#tr
+100.00		31.00	genom#tr
+100.00		31.00	origami#tr
+100.00		28.00	kozmik#tr
+100.00		10.00	öğe#tr
+100.00		10.00	teleskop#tr
+100.00		9.00	mühendislik#tr
+100.00		8.00	dna#tr
+100.00		7.00	şablon#tr
+100.00		6.00	yaratmak#tr
+100.00		6.00	katlamak#tr
+100.00		6.00	oluşturmak#tr
+100.00		2.00	damlacık#tr
+100.00		2.00	sürme#tr
+100.00		2.00	barkod#tr
+100.00		2.00	yapılabilirlik#tr
+------------
+Topic 8
+------------
+100.00		3.00	makine#tr
+100.00		1.00	avaz#tr
+100.00		1.00	yüzyıl#tr
+100.00		1.00	kızıl#tr
+100.00		1.00	günahsız#tr
+100.00		1.00	yokluk#tr
+100.00		1.00	sabırlı#tr
+100.00		1.00	barındırmak#tr
+100.00		1.00	elçi#tr
+100.00		1.00	dayatmak#tr
+100.00		1.00	onlu#tr
+100.00		1.00	sanayileşme#tr
+100.00		0.00	çerez#tr
+100.00		0.00	diskotek#tr
+100.00		0.00	homeros#tr
+100.00		0.00	yanetki#tr
+------------
+Topic 9
+------------
+100.00		7.00	çince#tr
+100.00		7.00	plastik#tr
+100.00		5.00	yüzyıl#tr
+100.00		2.00	korkulu#tr
+100.00		2.00	komedi#tr
+100.00		2.00	anayasal#tr
+100.00		1.00	başpiskopos#tr
+100.00		1.00	şampiyon#tr
+100.00		1.00	kaymak#tr
+100.00		1.00	yanlışlığını#tr
+100.00		1.00	çakal#tr
+100.00		1.00	hollandalı#tr
+100.00		1.00	derleyici#tr
+100.00		1.00	sorunsal#tr
+100.00		1.00	şişlik#tr
+100.00		1.00	atılır#tr
+------------
+Topic 10
+------------
+100.00		4.00	erime#tr
+100.00		2.00	konsey#tr
+100.00		1.00	soyuz#tr
+100.00		1.00	hazırlanmak#tr
+100.00		1.00	espresso#tr
+100.00		1.00	zenginleşmek#tr
+100.00		1.00	mezat#tr
+100.00		1.00	sodyum#tr
+100.00		1.00	birleşmek#tr
+100.00		1.00	şato#tr
+100.00		1.00	mühür#tr
+100.00		1.00	kedicik#tr
+100.00		1.00	gulyabani#tr
+100.00		1.00	lala#tr
+100.00		1.00	haberci#tr
+100.00		1.00	alaska#tr
+------------
+Topic 11
+------------
+100.00		4.00	sahne#tr
+100.00		3.00	veri#tr
+100.00		2.00	fikrimce#tr
+100.00		2.00	usul#tr
+100.00		1.00	tuzlu#tr
+100.00		1.00	aksan#tr
+100.00		1.00	çalıştay#tr
+100.00		1.00	modül#tr
+100.00		1.00	tıp#tr
+100.00		1.00	tanrıtanımaz#tr
+100.00		1.00	anımsatıcı#tr
+100.00		1.00	boksör#tr
+100.00		1.00	şansölye#tr
+100.00		1.00	takımada#tr
+100.00		1.00	karaoke#tr
+100.00		1.00	yetişmek#tr
+------------
+Topic 12
+------------
+100.00		1.00	iyelik#tr
+100.00		1.00	havalimanı#tr
+100.00		1.00	leydi#tr
+100.00		1.00	dindirmek#tr
+100.00		1.00	kıymet#tr
+100.00		1.00	suyolu#tr
+100.00		1.00	girdi#tr
+100.00		1.00	gözcü#tr
+100.00		1.00	kütüphaneci#tr
+100.00		1.00	kâbus#tr
+100.00		1.00	teftiş#tr
+100.00		1.00	emniyetsiz#tr
+100.00		1.00	sahiplik#tr
+100.00		1.00	boşaltmak#tr
+100.00		1.00	doksan#tr
+100.00		1.00	bolivyalı#tr
+------------
+Topic 13
+------------
+100.00		1.00	sinirlendirici#tr
+100.00		1.00	tırtıl#tr
+100.00		1.00	alımlı#tr
+100.00		1.00	homurtu#tr
+100.00		1.00	idaho#tr
+100.00		1.00	i̇skender#tr
+100.00		1.00	ittifak#tr
+100.00		1.00	önşart#tr
+100.00		1.00	kelvin#tr
+100.00		1.00	yünlü#tr
+100.00		1.00	birikimli#tr
+100.00		1.00	emperyalizm#tr
+100.00		1.00	stereotip#tr
+100.00		1.00	heyecanlandırmak#tr
+100.00		1.00	helal#tr
+100.00		1.00	parfümeri#tr
+------------
+Topic 14
+------------
+100.00		25.00	karınca#tr
+100.00		25.00	çete#tr
+100.00		1.00	kızgınlık#tr
+100.00		1.00	halüsinojen#tr
+100.00		1.00	farklılaştırma#tr
+100.00		1.00	pembe#tr
+100.00		1.00	tekinsiz#tr
+100.00		1.00	arıza#tr
+100.00		1.00	unutulabilir#tr
+100.00		1.00	anksiyete#tr
+100.00		1.00	afrodizyak#tr
+100.00		1.00	salamura#tr
+100.00		1.00	hece#tr
+100.00		1.00	logolar#tr
+100.00		1.00	endonezyalı#tr
+100.00		1.00	tayca#tr
+------------
+Topic 15
+------------
+100.00		202.00	kanser#tr
+100.00		147.00	hücre#tr
+100.00		68.00	sahne#tr
+100.00		51.00	makine#tr
+100.00		28.00	kemik#tr
+100.00		22.00	tıp#tr
+100.00		15.00	sabırlı#tr
+100.00		11.00	sağlık#tr
+100.00		2.00	porselen#tr
+100.00		2.00	çökelti#tr
+100.00		2.00	reenkarnasyon#tr
+100.00		2.00	dönüşmek#tr
+100.00		1.00	hazırlanmak#tr
+100.00		1.00	adalı#tr
+100.00		1.00	lokomotif#tr
+100.00		1.00	rasgele#tr
+------------
+Topic 16
+------------
+100.00		4.00	tayf#tr
+100.00		2.00	abartısız#tr
+100.00		2.00	atmosferik#tr
+100.00		1.00	çokgen#tr
+100.00		1.00	savaşçı#tr
+100.00		1.00	erteleme#tr
+100.00		1.00	dadı#tr
+100.00		1.00	işsiz#tr
+100.00		1.00	canlıcı#tr
+100.00		1.00	palavra#tr
+100.00		1.00	oluk#tr
+100.00		1.00	biyoenformatik#tr
+100.00		1.00	yeğen#tr
+100.00		1.00	yeteneksiz#tr
+100.00		1.00	çatışmak#tr
+100.00		1.00	kaynak#tr
+------------
+Topic 17
+------------
+100.00		2.00	yak#tr
+100.00		1.00	nikotin#tr
+100.00		1.00	rötar#tr
+100.00		1.00	ışın#tr
+100.00		1.00	his#tr
+100.00		1.00	yalama#tr
+100.00		1.00	amca#tr
+100.00		1.00	yıpranmış#tr
+100.00		1.00	metafizik#tr
+100.00		1.00	sezaryen#tr
+100.00		1.00	kaçık#tr
+100.00		1.00	soyut#tr
+100.00		1.00	çiş#tr
+100.00		1.00	müsamaha#tr
+100.00		1.00	sükut#tr
+100.00		1.00	belirme#tr
+------------
+Topic 18
+------------
+100.00		25.00	virüs#tr
+100.00		22.00	veri#tr
+100.00		18.00	tuna#tr
+100.00		12.00	söyleşi#tr
+100.00		2.00	altprogram#tr
+100.00		2.00	muhasebeci#tr
+100.00		2.00	ailevi#tr
+100.00		2.00	altyazı#tr
+100.00		2.00	heceleme#tr
+100.00		2.00	tat#tr
+100.00		1.00	röportajcı#tr
+100.00		1.00	pekin#tr
+100.00		1.00	çakmak#tr
+100.00		1.00	mil#tr
+100.00		1.00	kıvırcık#tr
+100.00		1.00	antimon#tr
+------------
+Topic 19
+------------
+100.00		2.00	ehil#tr
+100.00		2.00	şantaj#tr
+100.00		2.00	benin#tr
+100.00		2.00	kazma#tr
+100.00		2.00	amiral#tr
+100.00		2.00	tuzla#tr
+100.00		2.00	keçe#tr
+100.00		2.00	seçmeli#tr
+100.00		2.00	şaman#tr
+100.00		2.00	bulaşıcılık#tr
+100.00		2.00	seçmen#tr
+100.00		2.00	oslo#tr
+100.00		2.00	ukraynalı#tr
+100.00		2.00	yenme#tr
+100.00		2.00	çentik#tr
+100.00		2.00	scooter#tr

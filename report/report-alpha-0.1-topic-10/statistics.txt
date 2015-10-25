@@ -1,0 +1,17 @@
+----------
+Number of documents in each language: 970
+----------
+Number of tokens in each language:
+  #cmn: 534651
+  #tr: 249255
+  #en: 646611
+----------
+Number of topics: 10
+----------
+Number of iterations: 100
+----------
+Stopword: Using stopword lists according to the corpus.
+----------
+alpha: 0.10
+----------
+beta: 0.01 100.00 

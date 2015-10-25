@@ -1,0 +1,190 @@
+------------
+Topic 0
+------------
+100.00		1352.00	evet#tr
+100.00		1188.00	ancak#tr
+100.00		1089.00	beni#tr
+100.00		1075.00	bence#tr
+100.00		1071.00	birkaç#tr
+100.00		964.00	artık#tr
+100.00		915.00	orada#tr
+100.00		903.00	tarafından#tr
+100.00		899.00	yer#tr
+100.00		860.00	birçok#tr
+100.00		859.00	güzel#tr
+100.00		847.00	yüzde#tr
+100.00		847.00	oldukça#tr
+100.00		838.00	boyunca#tr
+100.00		834.00	şeyi#tr
+100.00		824.00	sizin#tr
+------------
+Topic 1
+------------
+100.00		14.00	ped#tr
+100.00		4.00	orkinos#tr
+100.00		4.00	antilop#tr
+100.00		4.00	cumhurbaşkanı#tr
+100.00		4.00	kromozom#tr
+100.00		3.00	archaeopteryx#tr
+100.00		2.00	fahişelik#tr
+100.00		2.00	angola#tr
+100.00		2.00	lesotho#tr
+100.00		2.00	sekreter#tr
+100.00		2.00	sakatlık#tr
+100.00		2.00	lira#tr
+100.00		2.00	başkent#tr
+100.00		2.00	cezayir#tr
+100.00		2.00	yapıştırıcı#tr
+100.00		2.00	avatar#tr
+------------
+Topic 2
+------------
+100.00		24.00	prostat#tr
+100.00		18.00	hardal#tr
+100.00		11.00	captcha#tr
+100.00		8.00	güneybatı#tr
+100.00		8.00	fotosentez#tr
+100.00		7.00	fırıncı#tr
+100.00		7.00	yusufçuk#tr
+100.00		5.00	kıkırdak#tr
+100.00		4.00	antikor#tr
+100.00		3.00	miami#tr
+100.00		3.00	kanepe#tr
+100.00		3.00	karnataka#tr
+100.00		2.00	beyincik#tr
+100.00		2.00	parabol#tr
+100.00		2.00	tımarhane#tr
+100.00		2.00	afiş#tr
+------------
+Topic 3
+------------
+100.00		13.00	migren#tr
+100.00		8.00	viking#tr
+100.00		7.00	yağmurlu#tr
+100.00		6.00	yalancılık#tr
+100.00		4.00	fıçı#tr
+100.00		3.00	uyma#tr
+100.00		2.00	malavili#tr
+100.00		2.00	davetsiz#tr
+100.00		2.00	artakalan#tr
+100.00		2.00	bluz#tr
+100.00		2.00	güvenilirlik#tr
+100.00		2.00	öncül#tr
+100.00		2.00	savahili#tr
+100.00		2.00	sokrates#tr
+100.00		2.00	döteryum#tr
+100.00		1.00	nuh#tr
+------------
+Topic 4
+------------
+100.00		2.00	yusuf#tr
+100.00		2.00	usul#tr
+100.00		2.00	pekin#tr
+100.00		1.00	onlu#tr
+100.00		1.00	aktivizm#tr
+100.00		1.00	zaaf#tr
+100.00		1.00	imparatoriçe#tr
+100.00		1.00	piliç#tr
+100.00		1.00	anımsamak#tr
+100.00		1.00	antika#tr
+100.00		1.00	mahrem#tr
+100.00		1.00	fotoğraflamak#tr
+100.00		1.00	dayatmak#tr
+100.00		1.00	buhran#tr
+100.00		1.00	arıcılık#tr
+100.00		1.00	vezir#tr
+------------
+Topic 5
+------------
+100.00		1.00	nohut#tr
+100.00		1.00	sql#tr
+100.00		1.00	mahal#tr
+100.00		1.00	kantin#tr
+100.00		1.00	açıklanmamış#tr
+100.00		1.00	vietnamlı#tr
+100.00		1.00	karakol#tr
+100.00		1.00	işitmek#tr
+100.00		1.00	i̇zlandalı#tr
+100.00		1.00	blöf#tr
+100.00		1.00	somon#tr
+100.00		1.00	parfümeri#tr
+100.00		1.00	klarnet#tr
+100.00		1.00	ahmet#tr
+100.00		1.00	avaz#tr
+100.00		1.00	yahya#tr
+------------
+Topic 6
+------------
+100.00		42.00	penguen#tr
+100.00		29.00	dopamin#tr
+100.00		7.00	sevecen#tr
+100.00		6.00	kromozom#tr
+100.00		4.00	karayipler#tr
+100.00		4.00	sinaps#tr
+100.00		2.00	hatırlatma#tr
+100.00		2.00	kalay#tr
+100.00		2.00	jamaikalı#tr
+100.00		2.00	akor#tr
+100.00		2.00	saadet#tr
+100.00		1.00	diaspora#tr
+100.00		1.00	tayca#tr
+100.00		1.00	pat#tr
+100.00		1.00	logo#tr
+100.00		1.00	anason#tr
+------------
+Topic 7
+------------
+100.00		91.00	başarısız#tr
+100.00		11.00	çılgınlık#tr
+100.00		6.00	seans#tr
+100.00		3.00	örtülü#tr
+100.00		2.00	i̇stanbul#tr
+100.00		2.00	ukraynalı#tr
+100.00		2.00	hastalıklı#tr
+100.00		2.00	biyoluminesans#tr
+100.00		1.00	pergel#tr
+100.00		1.00	namibyalı#tr
+100.00		1.00	hamak#tr
+100.00		1.00	kartografi#tr
+100.00		1.00	leydi#tr
+100.00		1.00	erkeklik#tr
+100.00		1.00	arıza#tr
+100.00		1.00	ren#tr
+------------
+Topic 8
+------------
+100.00		1.00	çırpmak#tr
+100.00		1.00	imece#tr
+100.00		1.00	şimdilik#tr
+100.00		1.00	uykucu#tr
+100.00		1.00	alakalı#tr
+100.00		1.00	donut#tr
+100.00		1.00	fidye#tr
+100.00		1.00	birikimli#tr
+100.00		1.00	lokomotif#tr
+100.00		1.00	parça#tr
+100.00		1.00	vişnu#tr
+100.00		1.00	galoş#tr
+100.00		1.00	teftiş#tr
+100.00		1.00	anksiyete#tr
+100.00		1.00	kaktüs#tr
+100.00		1.00	benzin#tr
+------------
+Topic 9
+------------
+100.00		3.00	hastayım#tr
+100.00		3.00	sıfat#tr
+100.00		2.00	çak#tr
+100.00		2.00	anneanne#tr
+100.00		2.00	tekinsiz#tr
+100.00		2.00	tuzla#tr
+100.00		2.00	özbek#tr
+100.00		2.00	kazma#tr
+100.00		2.00	futbolcu#tr
+100.00		2.00	keçe#tr
+100.00		2.00	şekel#tr
+100.00		2.00	tutam#tr
+100.00		2.00	muşamba#tr
+100.00		2.00	kadınsı#tr
+100.00		1.00	sütunlu#tr
+100.00		1.00	tahnit#tr

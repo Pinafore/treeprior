@@ -1,0 +1,190 @@
+------------
+Topic 0
+------------
+100.00		85.00	terk#tr
+100.00		61.00	merhamet#tr
+100.00		60.00	oynamak#tr
+100.00		57.00	hile#tr
+100.00		55.00	şehri#tr
+100.00		47.00	favori#tr
+100.00		46.00	sigara#tr
+100.00		44.00	okumak#tr
+100.00		44.00	arı#tr
+100.00		43.00	hal#tr
+100.00		40.00	hint#tr
+100.00		40.00	sera#tr
+100.00		40.00	kral#tr
+100.00		37.00	mantar#tr
+100.00		34.00	pencere#tr
+100.00		33.00	maden#tr
+------------
+Topic 1
+------------
+100.00		1352.00	evet#tr
+100.00		1189.00	ancak#tr
+100.00		1089.00	beni#tr
+100.00		1068.00	birkaç#tr
+100.00		964.00	artık#tr
+100.00		903.00	tarafından#tr
+100.00		868.00	güzel#tr
+100.00		861.00	oldukça#tr
+100.00		860.00	birçok#tr
+100.00		850.00	yer#tr
+100.00		838.00	boyunca#tr
+100.00		834.00	şeyi#tr
+100.00		824.00	sizin#tr
+100.00		811.00	kötü#tr
+100.00		802.00	milyon#tr
+100.00		776.00	tamam#tr
+------------
+Topic 2
+------------
+100.00		7.00	gözlük#tr
+100.00		1.00	hoşlanmak#tr
+100.00		1.00	yetişmek#tr
+100.00		1.00	babaanne#tr
+100.00		1.00	çağrılabilir#tr
+100.00		1.00	sınırlama#tr
+100.00		1.00	meraklı#tr
+100.00		1.00	karakol#tr
+100.00		1.00	görmek#tr
+100.00		1.00	anka#tr
+100.00		1.00	çözünen#tr
+100.00		1.00	mahrem#tr
+100.00		1.00	tecrübe#tr
+100.00		1.00	şahin#tr
+100.00		1.00	fotoğraflamak#tr
+100.00		1.00	tahıl#tr
+------------
+Topic 3
+------------
+100.00		1.00	dayatmak#tr
+100.00		1.00	iktisat#tr
+100.00		1.00	orman#tr
+100.00		1.00	onlu#tr
+100.00		1.00	imla#tr
+100.00		1.00	bura#tr
+100.00		1.00	viyolonsel#tr
+100.00		1.00	etki#tr
+100.00		1.00	uyak#tr
+100.00		1.00	hisse#tr
+100.00		0.00	boşanmak#tr
+100.00		0.00	stalaktit#tr
+100.00		0.00	zina#tr
+100.00		0.00	kabin#tr
+100.00		0.00	araç bilgisi#tr
+100.00		0.00	paşa#tr
+------------
+Topic 4
+------------
+100.00		1074.00	bence#tr
+100.00		915.00	orada#tr
+100.00		846.00	yüzde#tr
+100.00		824.00	işte#tr
+100.00		800.00	olmak#tr
+100.00		758.00	basit#tr
+100.00		744.00	sonunda#tr
+100.00		710.00	onların#tr
+100.00		701.00	hala#tr
+100.00		694.00	yüksek#tr
+100.00		683.00	tane#tr
+100.00		668.00	yine#tr
+100.00		615.00	gelen#tr
+100.00		569.00	adam#tr
+100.00		561.00	beş#tr
+100.00		549.00	bilim#tr
+------------
+Topic 5
+------------
+100.00		38.00	polen#tr
+100.00		27.00	karınca#tr
+100.00		11.00	ilişkisel#tr
+100.00		6.00	etil#tr
+100.00		1.00	kudüs#tr
+100.00		1.00	teneffüs#tr
+100.00		1.00	basitleştirme#tr
+100.00		1.00	lüzumsuz#tr
+100.00		1.00	yatmak#tr
+100.00		1.00	salamura#tr
+100.00		1.00	kırlangıç#tr
+100.00		1.00	saka#tr
+100.00		1.00	kont#tr
+100.00		1.00	hortumculuk#tr
+100.00		1.00	siren#tr
+100.00		1.00	denetçi#tr
+------------
+Topic 6
+------------
+100.00		14.00	ped#tr
+100.00		2.00	angarya#tr
+100.00		1.00	havana#tr
+100.00		1.00	birleşmek#tr
+100.00		1.00	dışlanan#tr
+100.00		1.00	vokal#tr
+100.00		1.00	bankamatik#tr
+100.00		1.00	zahmetsizce#tr
+100.00		1.00	nazır#tr
+100.00		1.00	hasret#tr
+100.00		1.00	kılavuzluk#tr
+100.00		1.00	piliç#tr
+100.00		1.00	sarılma#tr
+100.00		1.00	kaprisli#tr
+100.00		1.00	nal#tr
+100.00		0.00	boşanmak#tr
+------------
+Topic 7
+------------
+100.00		2.00	dışbükey#tr
+100.00		1.00	heyelan#tr
+100.00		1.00	boşaltmak#tr
+100.00		1.00	telaş#tr
+100.00		1.00	zerre#tr
+100.00		1.00	çömlekçi#tr
+100.00		1.00	alfabe#tr
+100.00		1.00	dindarlık#tr
+100.00		1.00	dekar#tr
+100.00		1.00	karpuz#tr
+100.00		1.00	dallanma#tr
+100.00		1.00	prometheus#tr
+100.00		1.00	gerzek#tr
+100.00		1.00	gretel#tr
+100.00		1.00	mazgallı#tr
+100.00		1.00	biriktirmek#tr
+------------
+Topic 8
+------------
+100.00		1.00	keklik#tr
+100.00		1.00	papyon#tr
+100.00		1.00	şamandıra#tr
+100.00		1.00	galoş#tr
+100.00		1.00	krom#tr
+100.00		1.00	teminat#tr
+100.00		1.00	uterus#tr
+100.00		1.00	itham#tr
+100.00		1.00	rezillik#tr
+100.00		1.00	yabancılaşma#tr
+100.00		1.00	nebula#tr
+100.00		1.00	sofuluk#tr
+100.00		1.00	serpinti#tr
+100.00		1.00	balkanlar#tr
+100.00		1.00	vuruş#tr
+100.00		1.00	şahitlik#tr
+------------
+Topic 9
+------------
+100.00		2.00	kazma#tr
+100.00		1.00	lügatçe#tr
+100.00		1.00	nalbant#tr
+100.00		1.00	elaltı#tr
+100.00		1.00	vuruldum#tr
+100.00		1.00	evliyim#tr
+100.00		1.00	konsolos#tr
+100.00		1.00	atılır#tr
+100.00		1.00	meşruiyet#tr
+100.00		1.00	putperest#tr
+100.00		1.00	ahududu#tr
+100.00		1.00	kışkırtma#tr
+100.00		1.00	garipçe#tr
+100.00		1.00	veranda#tr
+100.00		1.00	mevlana#tr
+100.00		1.00	katalan#tr

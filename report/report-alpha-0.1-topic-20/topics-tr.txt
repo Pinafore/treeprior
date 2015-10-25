@@ -1,0 +1,380 @@
+------------
+Topic 0
+------------
+100.00		8.00	özerklik#tr
+100.00		4.00	fakülte#tr
+100.00		4.00	karayipler#tr
+100.00		3.00	jamaika#tr
+100.00		3.00	yenileşim#tr
+100.00		2.00	eksiklik#tr
+100.00		2.00	rüzgâr#tr
+100.00		2.00	havuz#tr
+100.00		2.00	kemer#tr
+100.00		2.00	demirci#tr
+100.00		2.00	çözelti#tr
+100.00		2.00	marksizm#tr
+100.00		2.00	paylaşmak#tr
+100.00		2.00	iraklı#tr
+100.00		2.00	keçe#tr
+100.00		2.00	akor#tr
+------------
+Topic 1
+------------
+100.00		1352.00	evet#tr
+100.00		1192.00	ancak#tr
+100.00		1089.00	beni#tr
+100.00		1075.00	bence#tr
+100.00		1071.00	birkaç#tr
+100.00		964.00	artık#tr
+100.00		915.00	orada#tr
+100.00		903.00	güzel#tr
+100.00		903.00	tarafından#tr
+100.00		877.00	yer#tr
+100.00		860.00	birçok#tr
+100.00		857.00	oldukça#tr
+100.00		855.00	olmak#tr
+100.00		847.00	yüzde#tr
+100.00		838.00	boyunca#tr
+100.00		834.00	şeyi#tr
+------------
+Topic 2
+------------
+100.00		3.00	kuram#tr
+100.00		2.00	plazma#tr
+100.00		1.00	mezhep#tr
+100.00		1.00	kıllı#tr
+100.00		1.00	virtüöz#tr
+100.00		1.00	dublin#tr
+100.00		1.00	milisaniye#tr
+100.00		1.00	lenfoma#tr
+100.00		1.00	mahrem#tr
+100.00		1.00	papaya#tr
+100.00		1.00	hollandaca#tr
+100.00		1.00	amonyak#tr
+100.00		1.00	hiyeroglif#tr
+100.00		1.00	mol#tr
+100.00		1.00	avize#tr
+100.00		1.00	adacık#tr
+------------
+Topic 3
+------------
+100.00		42.00	penguen#tr
+100.00		31.00	origami#tr
+100.00		16.00	dodo#tr
+100.00		15.00	orgazm#tr
+100.00		11.00	malta#tr
+100.00		11.00	i̇brahim#tr
+100.00		10.00	kosova#tr
+100.00		10.00	havacılık#tr
+100.00		5.00	katlamak#tr
+100.00		2.00	köstek#tr
+100.00		2.00	nijer#tr
+100.00		1.00	gizleme#tr
+100.00		1.00	zahmetsizce#tr
+100.00		1.00	sıralamak#tr
+100.00		1.00	kasık#tr
+100.00		1.00	kürklü#tr
+------------
+Topic 4
+------------
+100.00		66.00	ekmek#tr
+100.00		34.00	karınca#tr
+100.00		34.00	demokrasi#tr
+100.00		29.00	vajina#tr
+100.00		18.00	müslüman#tr
+100.00		15.00	hamur#tr
+100.00		15.00	koro#tr
+100.00		11.00	maya#tr
+100.00		10.00	buğday#tr
+100.00		10.00	gana#tr
+100.00		8.00	türkiye#tr
+100.00		7.00	din#tr
+100.00		6.00	kartpostal#tr
+100.00		4.00	i̇slamcılık#tr
+100.00		3.00	kepek#tr
+100.00		3.00	hamur#tr
+------------
+Topic 5
+------------
+100.00		1.00	oybirliği#tr
+100.00		1.00	kişiselleştirmek#tr
+100.00		1.00	yikmak#tr
+100.00		1.00	kasıt#tr
+100.00		0.00	bir kere#tr
+100.00		0.00	akçe#tr
+100.00		0.00	neşesiz#tr
+100.00		0.00	pul#tr
+100.00		0.00	erkeğin kalbine giden yol midesinden geçer#tr
+100.00		0.00	klavsen#tr
+100.00		0.00	korse#tr
+100.00		0.00	gözaltına alınmak#tr
+100.00		0.00	olmayan#tr
+100.00		0.00	iyonik bağ#tr
+100.00		0.00	çıplaklık#tr
+100.00		0.00	fazla çevrimek#tr
+------------
+Topic 6
+------------
+100.00		2.00	beyincik#tr
+100.00		2.00	parabol#tr
+100.00		1.00	iskonto#tr
+100.00		1.00	libyalı#tr
+100.00		1.00	çözünen#tr
+100.00		1.00	antisemitizm#tr
+100.00		1.00	gri#tr
+100.00		1.00	yaka#tr
+100.00		1.00	kedicik#tr
+100.00		1.00	simyacı#tr
+100.00		1.00	jaguar#tr
+100.00		1.00	keski#tr
+100.00		1.00	değersiz#tr
+100.00		1.00	cırtlak#tr
+100.00		1.00	doğaç#tr
+100.00		1.00	liman#tr
+------------
+Topic 7
+------------
+100.00		1.00	keyifsiz#tr
+100.00		1.00	evliyim#tr
+100.00		1.00	kampüs#tr
+100.00		1.00	zenginleşme#tr
+100.00		1.00	ittifak#tr
+100.00		0.00	bir kere#tr
+100.00		0.00	akçe#tr
+100.00		0.00	neşesiz#tr
+100.00		0.00	pul#tr
+100.00		0.00	erkeğin kalbine giden yol midesinden geçer#tr
+100.00		0.00	klavsen#tr
+100.00		0.00	korse#tr
+100.00		0.00	gözaltına alınmak#tr
+100.00		0.00	olmayan#tr
+100.00		0.00	iyonik bağ#tr
+100.00		0.00	çıplaklık#tr
+------------
+Topic 8
+------------
+100.00		25.00	çete#tr
+100.00		14.00	ped#tr
+100.00		2.00	döteryum#tr
+100.00		2.00	pırlanta#tr
+100.00		1.00	kaydolmak#tr
+100.00		1.00	donut#tr
+100.00		1.00	imece#tr
+100.00		1.00	kibbutz#tr
+100.00		1.00	korkutmak#tr
+100.00		1.00	palyaço#tr
+100.00		1.00	içbükey#tr
+100.00		1.00	çiçekçilik#tr
+100.00		1.00	armut#tr
+100.00		1.00	suçlamak#tr
+100.00		1.00	dudak#tr
+100.00		1.00	kali#tr
+------------
+Topic 9
+------------
+100.00		17.00	galaksi#tr
+100.00		2.00	mukavemetli#tr
+100.00		2.00	yunanistan#tr
+100.00		1.00	boksör#tr
+100.00		1.00	bankamatik#tr
+100.00		1.00	yünlü#tr
+100.00		1.00	yönlendirici#tr
+100.00		1.00	sultan#tr
+100.00		1.00	kamuflaj#tr
+100.00		1.00	mükemmeliyet#tr
+100.00		1.00	bukalemun#tr
+100.00		1.00	ateşlemek#tr
+100.00		1.00	maceracı#tr
+100.00		1.00	portekizli#tr
+100.00		1.00	teçhizat#tr
+100.00		1.00	haritacı#tr
+------------
+Topic 10
+------------
+100.00		3.00	curitiba#tr
+100.00		2.00	golfçü#tr
+100.00		1.00	ket#tr
+100.00		1.00	arkadaşça#tr
+100.00		1.00	esirlik#tr
+100.00		1.00	avam#tr
+100.00		1.00	aceleci#tr
+100.00		1.00	katalan#tr
+100.00		1.00	tensör#tr
+100.00		1.00	kanmak#tr
+100.00		1.00	yayınlanmamış#tr
+100.00		1.00	pesimist#tr
+100.00		1.00	oruç#tr
+100.00		1.00	i̇t#tr
+100.00		1.00	namibya#tr
+100.00		1.00	greyfurt#tr
+------------
+Topic 11
+------------
+100.00		2.00	oymak#tr
+100.00		1.00	neşesiz#tr
+100.00		1.00	cızırtı#tr
+100.00		1.00	aden#tr
+100.00		1.00	sarılma#tr
+100.00		1.00	hünerli#tr
+100.00		1.00	genişlik#tr
+100.00		1.00	mülakat#tr
+100.00		1.00	huy#tr
+100.00		1.00	zırva#tr
+100.00		1.00	uterus#tr
+100.00		1.00	haykırmak#tr
+100.00		1.00	monolog#tr
+100.00		1.00	homurtu#tr
+100.00		1.00	yirmi#tr
+100.00		1.00	yatırmak#tr
+------------
+Topic 12
+------------
+100.00		1.00	postmodernizm#tr
+100.00		1.00	yıkıntı#tr
+100.00		1.00	batmak#tr
+100.00		1.00	ugandalı#tr
+100.00		1.00	yontmak#tr
+100.00		1.00	omuz#tr
+100.00		0.00	bir kere#tr
+100.00		0.00	akçe#tr
+100.00		0.00	neşesiz#tr
+100.00		0.00	pul#tr
+100.00		0.00	erkeğin kalbine giden yol midesinden geçer#tr
+100.00		0.00	klavsen#tr
+100.00		0.00	korse#tr
+100.00		0.00	gözaltına alınmak#tr
+100.00		0.00	olmayan#tr
+100.00		0.00	iyonik bağ#tr
+------------
+Topic 13
+------------
+100.00		18.00	hardal#tr
+100.00		1.00	müstehzi#tr
+100.00		1.00	gözaltı#tr
+100.00		1.00	selma#tr
+100.00		1.00	arsenik#tr
+100.00		1.00	elaltı#tr
+100.00		1.00	kartaca#tr
+100.00		1.00	bdt#tr
+100.00		1.00	yedirmek#tr
+100.00		1.00	uzaylı#tr
+100.00		1.00	doymak#tr
+100.00		1.00	minimalizm#tr
+100.00		1.00	ankara#tr
+100.00		1.00	dernek#tr
+100.00		0.00	bir kere#tr
+100.00		0.00	akçe#tr
+------------
+Topic 14
+------------
+100.00		2.00	porselen#tr
+100.00		1.00	tıraş#tr
+100.00		1.00	bağdat#tr
+100.00		1.00	etek#tr
+100.00		1.00	krep#tr
+100.00		1.00	hades#tr
+100.00		1.00	teorem#tr
+100.00		1.00	klarnet#tr
+100.00		1.00	sulandırmak#tr
+100.00		1.00	mayalar#tr
+100.00		1.00	mür#tr
+100.00		1.00	antika#tr
+100.00		1.00	kızdırmak#tr
+100.00		1.00	güz#tr
+100.00		1.00	kaydolmak#tr
+100.00		1.00	tanrıtanımaz#tr
+------------
+Topic 15
+------------
+100.00		11.00	captcha#tr
+100.00		1.00	çırpmak#tr
+100.00		1.00	probiyotik#tr
+100.00		1.00	şapkasız#tr
+100.00		1.00	heyecanlandırmak#tr
+100.00		1.00	dinmek#tr
+100.00		1.00	güdüm#tr
+100.00		1.00	kırtasiye#tr
+100.00		1.00	asayiş#tr
+100.00		1.00	galeyan#tr
+100.00		0.00	bir kere#tr
+100.00		0.00	akçe#tr
+100.00		0.00	neşesiz#tr
+100.00		0.00	pul#tr
+100.00		0.00	erkeğin kalbine giden yol midesinden geçer#tr
+100.00		0.00	klavsen#tr
+------------
+Topic 16
+------------
+100.00		4.00	ilik#tr
+100.00		1.00	yurtdışı#tr
+100.00		1.00	terbiyesiz#tr
+100.00		1.00	persephone#tr
+100.00		1.00	tekeşli#tr
+100.00		1.00	konuşma#tr
+100.00		1.00	misket#tr
+100.00		1.00	memleket#tr
+100.00		1.00	sodyum#tr
+100.00		1.00	gem#tr
+100.00		1.00	intibak#tr
+100.00		1.00	dağcılık#tr
+100.00		1.00	moloz#tr
+100.00		1.00	muğlaklık#tr
+100.00		1.00	kıskanmak#tr
+100.00		1.00	resmetmek#tr
+------------
+Topic 17
+------------
+100.00		1.00	kiralamak#tr
+100.00		1.00	yılmaz#tr
+100.00		1.00	kasıt#tr
+100.00		1.00	yeğen#tr
+100.00		0.00	bir kere#tr
+100.00		0.00	akçe#tr
+100.00		0.00	neşesiz#tr
+100.00		0.00	pul#tr
+100.00		0.00	erkeğin kalbine giden yol midesinden geçer#tr
+100.00		0.00	klavsen#tr
+100.00		0.00	korse#tr
+100.00		0.00	gözaltına alınmak#tr
+100.00		0.00	olmayan#tr
+100.00		0.00	iyonik bağ#tr
+100.00		0.00	çıplaklık#tr
+100.00		0.00	fazla çevrimek#tr
+------------
+Topic 18
+------------
+100.00		1.00	nauru#tr
+100.00		1.00	buzdağı#tr
+100.00		1.00	hipoksi#tr
+100.00		1.00	ajanda#tr
+100.00		1.00	anka#tr
+100.00		1.00	peni#tr
+100.00		1.00	başarılamayacak#tr
+100.00		1.00	ova#tr
+100.00		1.00	sınıflandırmak#tr
+100.00		1.00	tiksinme#tr
+100.00		1.00	uygunluk#tr
+100.00		1.00	psikoz#tr
+100.00		1.00	tosbağa#tr
+100.00		1.00	fani#tr
+100.00		1.00	parşömen#tr
+100.00		1.00	ksilofon#tr
+------------
+Topic 19
+------------
+100.00		4.00	boynuzlu#tr
+100.00		2.00	şantaj#tr
+100.00		2.00	fahişelik#tr
+100.00		2.00	tuzla#tr
+100.00		1.00	yıkılmak#tr
+100.00		1.00	ovalama#tr
+100.00		1.00	davalı#tr
+100.00		1.00	yamyam#tr
+100.00		1.00	körük#tr
+100.00		1.00	yumuşatmak#tr
+100.00		1.00	ringa#tr
+100.00		1.00	zoka#tr
+100.00		1.00	özgecil#tr
+100.00		1.00	konya#tr
+100.00		1.00	kiraz#tr
+100.00		1.00	sicilyalı#tr

@@ -1,0 +1,1075 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"voca",
+				"vocablist"
+			],
+			[
+				"_v",
+				"_vocablist"
+			],
+			[
+				"_vo",
+				"_vocablist"
+			],
+			[
+				"_voca",
+				"_vocablist"
+			],
+			[
+				"buck",
+				"bucket_s"
+			],
+			[
+				"new",
+				"new_path"
+			],
+			[
+				"_doc_",
+				"_doc_word_id"
+			],
+			[
+				"token",
+				"token_id"
+			],
+			[
+				"word",
+				"word_str"
+			],
+			[
+				"_doc",
+				"_doc_word_id"
+			],
+			[
+				"all",
+				"all_paths_id"
+			],
+			[
+				"doc_",
+				"doc_strings"
+			],
+			[
+				"get",
+				"get_new_distribution"
+			],
+			[
+				"_path",
+				"_path_edge_set"
+			],
+			[
+				"con",
+				"consume"
+			],
+			[
+				"_",
+				"_s_lambda"
+			],
+			[
+				"bucket",
+				"bucket_s"
+			],
+			[
+				"_sum",
+				"_sum_sum"
+			],
+			[
+				"_pa",
+				"_path_count"
+			],
+			[
+				"_a",
+				"_alpha"
+			],
+			[
+				"buc",
+				"bucket_r"
+			],
+			[
+				"all_",
+				"all_paths_id"
+			],
+			[
+				"sum",
+				"summation"
+			],
+			[
+				"_p",
+				"_path_edge_set"
+			],
+			[
+				"_s",
+				"_sum_sum"
+			],
+			[
+				"_num",
+				"_num_topics"
+			],
+			[
+				"ran",
+				"random_topic_id"
+			],
+			[
+				"random",
+				"random_topic_id"
+			],
+			[
+				"doc",
+				"doc_id"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"rando",
+				"random_topic_id"
+			],
+			[
+				"_cu",
+				"_current_path_id"
+			],
+			[
+				"curre",
+				"_current_path_id"
+			],
+			[
+				"_word",
+				"_word_path_id"
+			],
+			[
+				"acu",
+				"actual_number"
+			],
+			[
+				"_curr",
+				"_current_path_id"
+			],
+			[
+				"file",
+				"filenames"
+			],
+			[
+				"en",
+				"end_pos"
+			],
+			[
+				"tok",
+				"token_id"
+			],
+			[
+				"seg",
+				"segment"
+			],
+			[
+				"al",
+				"all_paths"
+			],
+			[
+				"new_pa",
+				"new_path_id"
+			],
+			[
+				"path",
+				"path_id"
+			],
+			[
+				"ac",
+				"actual_parsed"
+			],
+			[
+				"cur",
+				"current_word"
+			],
+			[
+				"cu",
+				"current_word"
+			],
+			[
+				"_stop",
+				"_stopwords"
+			],
+			[
+				"lng",
+				"lang_id"
+			],
+			[
+				"langu",
+				"language_list"
+			],
+			[
+				"sor",
+				"srotedtfidf"
+			],
+			[
+				"term",
+				"term_freq"
+			],
+			[
+				"tf",
+				"tf_normalizer"
+			],
+			[
+				"_num_",
+				"_num_nodes"
+			],
+			[
+				"Vocab",
+				"VocabBuilder"
+			],
+			[
+				"de",
+				"delist_index"
+			],
+			[
+				"num",
+				"_num_path"
+			],
+			[
+				"deli",
+				"delist_index"
+			],
+			[
+				"group",
+				"group_id"
+			],
+			[
+				"_voc",
+				"_vocab"
+			],
+			[
+				"se",
+				"search_path"
+			],
+			[
+				"actu",
+				"actual_parsed"
+			],
+			[
+				"min",
+				"_min_length_cmn"
+			],
+			[
+				"dump",
+				"dumpname"
+			],
+			[
+				"dum",
+				"dumpname"
+			],
+			[
+				"_sum_",
+				"_sum_sum"
+			],
+			[
+				"prior",
+				"_prior"
+			],
+			[
+				"dim",
+				"_dim"
+			],
+			[
+				"_d",
+				"_dim"
+			],
+			[
+				"initi",
+				"initialize_likelihood"
+			],
+			[
+				"_topic",
+				"_topic_lhood"
+			],
+			[
+				"_top",
+				"_topic_lhood"
+			],
+			[
+				"language",
+				"language"
+			],
+			[
+				"TAG_",
+				"TAG_TR"
+			],
+			[
+				"TAG",
+				"TAG_ZH"
+			],
+			[
+				"stop",
+				"stop_words"
+			],
+			[
+				"ass",
+				"assertAlmostEqual"
+			],
+			[
+				"_prior",
+				"_prior"
+			],
+			[
+				"topic",
+				"topic_id"
+			],
+			[
+				"likeli",
+				"log_likelihood"
+			],
+			[
+				"defau",
+				"defaultdict"
+			],
+			[
+				"defa",
+				"defaultdict"
+			],
+			[
+				"_topi",
+				"_topic_term"
+			],
+			[
+				"do",
+				"doc_tokens"
+			],
+			[
+				"toke",
+				"token_path"
+			],
+			[
+				"_prio",
+				"_prior"
+			],
+			[
+				"un",
+				"UNASSIGNED"
+			],
+			[
+				"inter",
+				"internal_node_id"
+			],
+			[
+				"ram",
+				"random_topic_id"
+			],
+			[
+				"num_",
+				"num_topics"
+			],
+			[
+				"node",
+				"node_id"
+			],
+			[
+				"no",
+				"node_id"
+			],
+			[
+				"ta",
+				"TAG_ZH"
+			],
+			[
+				"tag",
+				"TAG_EN"
+			],
+			[
+				"curr",
+				"current_node_id"
+			],
+			[
+				"top",
+				"_topics"
+			],
+			[
+				"prio",
+				"_sum_prior"
+			],
+			[
+				"to",
+				"token_id"
+			],
+			[
+				"_ass",
+				"_assigns"
+			],
+			[
+				"sample",
+				"sample_new_topic"
+			],
+			[
+				"voc",
+				"vocabulary"
+			],
+			[
+				"initia",
+				"initialize_count_normalizer"
+			],
+			[
+				"ini",
+				"initialize_count_normalizer"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"get_",
+				"get_path_from_word"
+			],
+			[
+				"set",
+				"set_normalizer"
+			],
+			[
+				"root",
+				"root_normalizer"
+			],
+			[
+				"nor",
+				"_normalizer"
+			],
+			[
+				"stat",
+				"start"
+			],
+			[
+				"one",
+				"one_doc_topics"
+			],
+			[
+				"tree",
+				"tree"
+			],
+			[
+				"samp",
+				"sample_probs"
+			],
+			[
+				"te",
+				"temp_doc"
+			],
+			[
+				"inde",
+				"index_token"
+			],
+			[
+				"_beta",
+				"_beta_sum"
+			],
+			[
+				"vocab",
+				"vocabulary"
+			],
+			[
+				"vo",
+				"vocabulary"
+			],
+			[
+				"_co",
+				"_vocab"
+			],
+			[
+				"par",
+				"parsed_dict"
+			],
+			[
+				"wo",
+				"WORD"
+			],
+			[
+				"lang",
+				"lang_id"
+			],
+			[
+				"lan",
+				"lang_id"
+			],
+			[
+				"TA",
+				"TAG_TR"
+			],
+			[
+				"count",
+				"count_top"
+			],
+			[
+				"he",
+				"heuristic_punishment"
+			],
+			[
+				"re",
+				"result_back"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"has",
+				"hashtag"
+			],
+			[
+				"temp",
+				"tempword"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "common.py",
+			"settings":
+			{
+				"buffer_size": 2105,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CorpusLoader.py",
+			"settings":
+			{
+				"buffer_size": 6023,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "VocabBuilder.py",
+			"settings":
+			{
+				"buffer_size": 5163,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Sampler.py",
+			"settings":
+			{
+				"buffer_size": 16648,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 3216,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/shudonghao/project/mlitm-naive/Sampler.py",
+		"/Users/shudonghao/project/mlitm-naive/profiler.txt",
+		"/Users/shudonghao/project/mlitm-sparse/profiler.txt",
+		"/Users/shudonghao/project/mlitm-sparse/main.py.lprof",
+		"/Users/shudonghao/project/mlitm-sparse/vocabulary.txt",
+		"/Users/shudonghao/project/TED2013/all/main.py",
+		"/Users/shudonghao/project/TED2013/en-tr/main.py",
+		"/Users/shudonghao/project/TED2013/en-tr/ted2013.en.xml",
+		"/Users/shudonghao/project/parsebible/English.xml",
+		"/Users/shudonghao/project/mlitm/vocabulary.txt",
+		"/Users/shudonghao/project/vocabulary.txt",
+		"/Users/shudonghao/project/mlitm/testpath.txt",
+		"/Users/shudonghao/project/kopia/Sampler.py",
+		"/Users/shudonghao/project/kopia/parsewiktionary.py",
+		"/Users/shudonghao/project/kopia/CorpusLoader.py",
+		"/Users/shudonghao/project/kopia/main.py",
+		"/Users/shudonghao/project/kopia/common.py",
+		"/Users/shudonghao/project/kopia/VocabBuilder.py",
+		"/Users/shudonghao/project/kopia/stopword-en.txt",
+		"/Users/shudonghao/project/parsebible/en/b.1CH.5.txt",
+		"/Users/shudonghao/project/parsebible/en/b.1CH.4.txt",
+		"/Users/shudonghao/project/parsebible/en/b.1CH.3.txt",
+		"/Users/shudonghao/project/parsebible/en/b.1CH.2.txt",
+		"/Users/shudonghao/project/parsebible/en/b.1CH.1.txt",
+		"/Users/shudonghao/project/kopia/vocabulary.txt",
+		"/Users/shudonghao/project/kopia/test.py",
+		"/Users/shudonghao/project/kopia/stopword-tr.txt",
+		"/Users/shudonghao/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/shudonghao/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/shudonghao/project/treelda/lda.py",
+		"/Users/shudonghao/project/treelda/bible/Chinese-tok.xml",
+		"/Users/shudonghao/project/treelda/bible/Chinese.xml",
+		"/Users/shudonghao/ml-hw-master/svm/assign.md",
+		"/Users/shudonghao/ml-hw-master/svm/tests.py",
+		"/Users/shudonghao/ml-hw-master/svm/svm.py",
+		"/Users/shudonghao/project/parsebible/main.py",
+		"/Users/shudonghao/project/parsebible/Chinese-tok.xml",
+		"/Users/shudonghao/project/treelda/stupid_version/test.py",
+		"/Users/shudonghao/project/treelda/test.py",
+		"/Users/shudonghao/treelda/taste/classtest.py",
+		"/Users/shudonghao/treelda/stupid_version/common.py",
+		"/Users/shudonghao/treelda/test.py",
+		"/Users/shudonghao/treelda/lda.py",
+		"/Users/shudonghao/treelda/taste/main.py",
+		"/Users/shudonghao/treelda/taste/vocabtest.py",
+		"/Users/shudonghao/treelda/stupid_version/test.py",
+		"/Users/shudonghao/treelda/stupid_version/lda.py",
+		"/Users/shudonghao/treelda/taste/atest.py",
+		"/Users/shudonghao/treelda/new.py",
+		"/Users/shudonghao/treelda/taste/test.py",
+		"/Users/shudonghao/ml-hw-master/learnability/vc_sin.py",
+		"/Users/shudonghao/ml-hw-master/learnability/test.py",
+		"/Users/shudonghao/ml-hw-master/learnability/rademacher.py",
+		"/Users/shudonghao/nlp-hw/maxmatch/hao-assgn1.py",
+		"/Users/shudonghao/ml-hw-master/feat_eng/classify-2.py",
+		"/Users/shudonghao/ml-hw-master/feat_eng/classify.py",
+		"/Users/shudonghao/treelda/common.py",
+		"/Users/shudonghao/treelda/bst.py",
+		"/Users/shudonghao/treelda/toy/tr/psg4.txt",
+		"/Users/shudonghao/treelda/toy/tr/psg3.txt",
+		"/Users/shudonghao/treelda/toy/tr/psg2.txt",
+		"/Users/shudonghao/treelda/toy/tr/psg1.txt",
+		"/Users/shudonghao/treelda/vocabulary.txt",
+		"/Users/shudonghao/treelda/parsewiktionary.py",
+		"/Users/shudonghao/nlp-hw/hao-assgn1.py",
+		"/Users/shudonghao/nlp-hw/hashtags-train-reference.txt",
+		"/Users/shudonghao/nlp-hw/hashtags-train-maxmatch.txt",
+		"/Users/shudonghao/nlp-hw/bigwordlist.txt",
+		"/Users/shudonghao/nlp-hw/untitled",
+		"/Users/shudonghao/nlp-hw/minedit.py",
+		"/Users/shudonghao/nlp-hw/text1.txt",
+		"/Users/shudonghao/nlp-hw/hao-out-assgn1.txt",
+		"/Users/shudonghao/nlp-hw/maxmatch.py",
+		"/Users/shudonghao/ml-hw-master/learnability/bst.py",
+		"/Users/shudonghao/treelda/try.py",
+		"/Users/shudonghao/treelda/chineseproblem.txt",
+		"/Users/shudonghao/treelda/step1.txt",
+		"/Users/shudonghao/treelda/outputelements.py",
+		"/Users/shudonghao/outputelements.py",
+		"/Users/shudonghao/dataset/try.txt",
+		"/Users/shudonghao/dataset/jawiktionary-20150901-pages-articles-multistream.xml",
+		"/Users/shudonghao/nlp-hw/shudonghao-out-assgn1.txt",
+		"/Users/shudonghao/dataset/enwiktionary-latest-pages-articles.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"._vocab",
+			"change_state",
+			"._vocab",
+			"self._tempvocab",
+			"self._vocab",
+			"all_paths_id",
+			"get_all_buckets",
+			"initialize",
+			"initialize_assigns",
+			"initialize_path_prior",
+			"http://",
+			"change_state",
+			"christ#en",
+			"change_state",
+			"get_new_distribution",
+			"change_state",
+			"self._assigns",
+			"_assigns",
+			"_topic_prior_lhood",
+			"云南#cmn",
+			"投票站#cmn",
+			"self._vocab",
+			"get_new_distribution",
+			"change_state",
+			"word_path",
+			"sort",
+			"因為#cmn:",
+			"1040",
+			"into#",
+			"rest#en",
+			"49083",
+			"_vocab",
+			"initialize",
+			"print",
+			"scroll",
+			"change_state",
+			"initialize_assigns",
+			"initialize",
+			"scan_corpus",
+			"initialize_topic_priors",
+			"initialize",
+			"scan_corpus",
+			"_sum_count",
+			"scan_corpus",
+			"report",
+			"report_topics",
+			"inc",
+			"scan_corpus",
+			"_num_path",
+			"_topics[topic_id]",
+			"prob",
+			"self._alpha",
+			"get_new_distribution",
+			"change_state",
+			"lhood",
+			"VocabBuilder",
+			"run_sam",
+			"_sum_count",
+			"prob",
+			"get_new_distribution",
+			"word_id",
+			"get_new",
+			"change_state",
+			"_word_path",
+			"get_new_distribution",
+			"run_sampler",
+			"initialize_topic_priors",
+			"change_state",
+			"initialize",
+			"scan_corpus",
+			"Sampler",
+			"assertItemsEqual",
+			"initialize_topic_priors",
+			"initialize",
+			"run_sampler",
+			"scan_corpus",
+			"Sampler",
+			"_sum_count",
+			"change_state",
+			"run_sampler",
+			"scan_corpus",
+			"  		",
+			"kDOC_NORMALIZER",
+			"._counts",
+			"scroll",
+			"output_",
+			"word_in_topic",
+			"LogProbability",
+			"multilingual_topics_",
+			"TopicVocProbability",
+			"TopicProbability",
+			"TopicVocProbability",
+			"VocDist",
+			" multilingual_topics_",
+			"multilingual_topics_",
+			"Multiling",
+			"State",
+			"::Initialize",
+			"SparseMultinomial",
+			"topics_",
+			"docs_",
+			"state_",
+			"ChangeCount",
+			"ChangeTopicCount",
+			"ChangeTopic",
+			"TopicProbability",
+			"::LogProbability",
+			"LogProbability",
+			"TopicVocProbability",
+			"logProbability",
+			"logPro",
+			"LogNumerator",
+			"TopicDocProbability",
+			"LogNumerator",
+			"TopicDocProbability",
+			"LogNumerator",
+			"TopicDocProbability",
+			"state_",
+			"TopicProbability",
+			"SampleWordTopic",
+			"PrepareWord",
+			"SampleWord",
+			"change_count",
+			"tak",
+			"Sampler",
+			"word_in_topic",
+			"run_sampler",
+			".inc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tempvocab",
+			"self._tempvocab"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "common.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								474,
+								474
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CorpusLoader.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6023,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5064,
+								5064
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "VocabBuilder.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								344,
+								344
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 111.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Sampler.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12326,
+								12326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4522.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1382,
+								1382
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mlitm.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

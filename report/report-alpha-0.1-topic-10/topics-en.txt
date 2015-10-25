@@ -1,0 +1,190 @@
+------------
+Topic 0
+------------
+100.00		1248.00	change#en
+100.00		1115.00	sort#en
+100.00		873.00	science#en
+100.00		777.00	food#en
+100.00		674.00	play#en
+100.00		629.00	become#en
+100.00		599.00	bad#en
+100.00		578.00	music#en
+100.00		571.00	while#en
+100.00		570.00	book#en
+100.00		551.00	yeah#en
+100.00		547.00	woman#en
+100.00		537.00	building#en
+100.00		533.00	keep#en
+100.00		528.00	care#en
+100.00		515.00	family#en
+------------
+Topic 1
+------------
+100.00		13.00	aye#en
+100.00		8.00	digit#en
+100.00		2.00	unsure#en
+100.00		2.00	significance#en
+100.00		1.00	greyhound#en
+100.00		1.00	somebody#en
+100.00		1.00	plane#en
+0.01		1.00	vestments#en
+100.00		1.00	lovable#en
+0.01		1.00	equitably#en
+100.00		1.00	pejorative#en
+100.00		1.00	twig#en
+0.01		1.00	islamophobes#en
+0.01		1.00	tilling#en
+100.00		1.00	invention#en
+0.01		1.00	anaesthetic#en
+------------
+Topic 2
+------------
+100.00		3.00	cauliflower#en
+100.00		2.00	binary#en
+100.00		2.00	enjoy#en
+100.00		1.00	blog#en
+100.00		1.00	inspiration#en
+100.00		1.00	useful#en
+0.01		1.00	overhang#en
+100.00		1.00	accept#en
+0.01		1.00	deceiving#en
+100.00		1.00	carnivore#en
+100.00		1.00	advantage#en
+0.01		1.00	aglimmer#en
+0.01		1.00	obsoleting#en
+100.00		1.00	pidgin#en
+0.01		1.00	striders#en
+0.01		1.00	recede#en
+------------
+Topic 3
+------------
+100.00		1.00	steppe#en
+100.00		1.00	reference#en
+100.00		1.00	film#en
+0.01		1.00	sublimated#en
+100.00		1.00	population#en
+100.00		1.00	mainly#en
+100.00		1.00	progress#en
+100.00		1.00	belief#en
+0.01		1.00	discomforting#en
+100.00		1.00	ampoule#en
+100.00		1.00	chic#en
+0.01		1.00	undoing#en
+100.00		1.00	ability#en
+100.00		1.00	amount#en
+100.00		1.00	below#en
+100.00		1.00	convene#en
+------------
+Topic 4
+------------
+100.00		28.00	spider#en
+0.01		23.00	tasmanian#en
+100.00		13.00	silk#en
+0.01		10.00	dragline#en
+0.01		9.00	silks#en
+0.01		4.00	edl#en
+100.00		4.00	gland#en
+0.01		4.00	nematode#en
+0.01		3.00	radii#en
+100.00		3.00	protein#en
+0.01		3.00	microworld#en
+100.00		3.00	infant#en
+100.00		2.00	virus#en
+0.01		2.00	ampullate#en
+100.00		2.00	coffee#en
+0.01		2.00	picnics#en
+------------
+Topic 5
+------------
+100.00		1081.00	brain#en
+100.00		885.00	call#en
+100.00		687.00	energy#en
+100.00		407.00	oil#en
+100.00		326.00	size#en
+100.00		318.00	amount#en
+100.00		274.00	watch#en
+100.00		226.00	shape#en
+100.00		194.00	solve#en
+100.00		184.00	similar#en
+0.01		178.00	math#en
+100.00		177.00	revolution#en
+100.00		174.00	physics#en
+100.00		169.00	above#en
+100.00		157.00	activity#en
+0.01		156.00	list#en
+------------
+Topic 6
+------------
+100.00		909.00	found#en
+100.00		864.00	understand#en
+100.00		744.00	enough#en
+100.00		686.00	information#en
+0.01		656.00	dollars#en
+100.00		636.00	business#en
+100.00		587.00	health#en
+100.00		564.00	project#en
+100.00		538.00	billion#en
+100.00		525.00	process#en
+100.00		517.00	city#en
+100.00		507.00	couple#en
+100.00		504.00	matter#en
+0.01		502.00	countries#en
+100.00		487.00	computer#en
+100.00		483.00	experience#en
+------------
+Topic 7
+------------
+100.00		700.00	create#en
+0.01		525.00	cells#en
+100.00		497.00	universe#en
+100.00		449.00	cancer#en
+100.00		408.00	model#en
+100.00		361.00	air#en
+100.00		314.00	population#en
+100.00		313.00	image#en
+100.00		296.00	cell#en
+100.00		279.00	stage#en
+100.00		252.00	theory#en
+100.00		247.00	evolution#en
+100.00		245.00	dark#en
+100.00		241.00	animal#en
+100.00		235.00	voice#en
+100.00		226.00	structure#en
+------------
+Topic 8
+------------
+0.01		25.00	connectome#en
+0.01		14.00	cymatics#en
+0.01		4.00	cymatic#en
+100.00		2.00	opportunity#en
+100.00		1.00	psychosis#en
+0.01		1.00	certificated#en
+100.00		1.00	shrapnel#en
+0.01		1.00	ang#en
+0.01		1.00	incongruous#en
+0.01		1.00	opioids#en
+0.01		1.00	franchisees#en
+100.00		1.00	quartet#en
+0.01		1.00	proteas#en
+0.01		1.00	polycarbonates#en
+0.01		1.00	lifeforms#en
+100.00		1.00	forgettable#en
+------------
+Topic 9
+------------
+0.01		3081.00	she#en
+100.00		1795.00	her#en
+100.00		1468.00	percent#en
+100.00		1243.00	technology#en
+100.00		1193.00	human#en
+100.00		1180.00	mean#en
+100.00		1173.00	story#en
+100.00		1076.00	problem#en
+0.01		1062.00	him#en
+0.01		1054.00	might#en
+0.01		1053.00	bit#en
+100.00		1048.00	each#en
+100.00		1030.00	better#en
+100.00		1020.00	system#en
+100.00		1013.00	maybe#en
+100.00		985.00	place#en
