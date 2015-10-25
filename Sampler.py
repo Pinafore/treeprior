@@ -2,7 +2,7 @@ from common import *
 
 
 """""""""""""""""""""""""""""""""""
-Sampler
+Sampler 
 """""""""""""""""""""""""""""""""""
 
 class Sampler:
